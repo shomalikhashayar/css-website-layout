@@ -1,20 +1,8 @@
-.fa {
-  padding: 10px;
-  font-size: 22px;
-  width: 15px;
-  height: 15px;
-  text-align: center;
-  text-decoration: none;
-  margin: 3px 2px;
-  opacity: 0.7;
-  color: aliceblue;
-  border-radius: 50%;
-}
 .fa:hover {
   opacity: 1;
   color: white;
 }
-.fa-linkedin {
+/* .fa-linkedin {
   background: #007bb5;
   color: white;
 }
@@ -32,9 +20,9 @@
 .fa-dribbble {
   background: #ea4c89;
   color: white;
-}
+} */
 .social-media {
-  padding-right: 720px;
+  padding-right: 625px;
 }
 .social-media a {
   margin: 2px;
