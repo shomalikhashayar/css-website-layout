@@ -1,0 +1,41 @@
+.fa {
+  padding: 10px;
+  font-size: 22px;
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px 2px;
+  opacity: 0.7;
+  color: aliceblue;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity: 1;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: radial-gradient(
+    circle at 20% 100%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  color: white;
+}
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+.social-media {
+  padding-right: 720px;
+}
+.social-media a {
+  margin: 2px;
+}

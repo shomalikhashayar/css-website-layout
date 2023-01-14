@@ -1,6 +1,6 @@
 /* Style buttons */
 .btn-projects {
-  background-color: rgb(255, 106, 0); /* Blue background */
+  background-color: rgb(255, 106, 0); /* Orange background */
   border: none; /* Remove borders */
   color: rgb(255, 255, 255); /* White text */
   padding: 12px 16px; /* Some padding */
@@ -13,7 +13,7 @@
   margin: 2px;
 }
 .btn-github {
-  background-color: rgb(255, 106, 0); /* Blue background */
+  background-color: rgb(255, 106, 0); /* Orange background */
   border: none; /* Remove borders */
   color: rgb(255, 255, 255); /* White text */
   padding: 1px 16px; /* Some padding */
