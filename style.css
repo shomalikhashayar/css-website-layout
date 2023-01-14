@@ -2,6 +2,14 @@
   margin: 0;
   font-family: "Rubik", sans-serif;
 }
+html {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+}
 .header-main {
   background-color: rgb(39, 39, 39);
   padding: 10px;
@@ -16,7 +24,7 @@
 .header-nav {
   background-color: white;
   padding: 32px;
-  /* box-shadow: 0 0 8px rgba(0, 0, 0, 0.3); */
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.103);
   text-align: center;
   border-bottom: 1px solid #ccc;
   border-top: 1px solid #ccc;
@@ -101,8 +109,11 @@ img {
 .copyright-text a:hover {
   color: #f73a00;
 }
-#footer-p{
+#footer-p {
   font-size: 12px;
   padding-right: 10px;
-
+}
+.main-content {
+  padding: 700px;
+  background-color: rgb(255, 255, 255);
 }
