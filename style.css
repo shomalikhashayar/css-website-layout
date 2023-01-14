@@ -24,7 +24,7 @@ body {
 .header-nav {
   background-color: white;
   padding: 32px;
-  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.103);
+  /* box-shadow: 0 5px 8px rgba(0, 0, 0, 0.103); */
   text-align: center;
   border-bottom: 1px solid #ccc;
   border-top: 1px solid #ccc;
@@ -64,7 +64,7 @@ a[tabindex]:focus {
   font-weight: 900;
   text-align: center;
 }
-img {
+.khashayar-shomali-img {
   border-radius: 20px;
   width: 30px;
   height: 30px;
@@ -114,6 +114,65 @@ img {
   padding-right: 10px;
 }
 .main-content {
-  padding: 700px;
+  /* padding: 700px; */
+  text-align: center;
+  /* margin: 150px; */
+  font-size: 28px;
   background-color: rgb(255, 255, 255);
+}
+.who-am-i-sentence {
+  margin-top: 10px;
+  padding-left: 250px;
+  padding-right: 250px;
+  font-size: 18px;
+}
+.Introduce {
+  background-color: #fff0eb;
+  padding: 150px;
+  border-bottom: 1px solid #ccc;
+}
+.who-am-i {
+  width: 150px;
+  height: 150px;
+  padding-bottom: 30px;
+}
+.my-skills {
+  padding: 150px;
+}
+.my-skills-png {
+  width: 150px;
+  height: 150px;
+  padding-bottom: 30px;
+}
+.my-skills-sentence-1 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+.my-skills-sentence-2 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+.my-skills-sentence-3 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+.line {
+  color: #f73a00;
+}
+.resume {
+  background-color: #fff0eb;
+  padding: 150px;
+}
+.resume button {
+  background-color: #ff6a00;
+  color: white;
+  font-size: 18px;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+}
+.resume button:hover {
+  background-color: #f73a00;
+  font-weight: bold;
 }
